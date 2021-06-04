@@ -1,0 +1,12 @@
+Buger|2|A boiger
+Cheese Buger|3|A boiger with cheese
+Mushroom Buger|4.25|A boiger with shrooms
+"Mystery Meat" Buger|5.5|A boiger made with questionable ingredients. Requires Waiver
+Hotdog|1.5|A Hotdawg
+Chilli Hotdog|2.5|A Hotdawg, but somehow filled with chilli, no meat.
+Ice Cream|1|Ice Cream with Red Bean
+Soup|2|Water and whatever was on hand.
+Surprise!|8|Don't ask.
+Cake|6|At least we think it is cake.
+Pie|7.89|You will think it is pumpkin, but it is actually squash. And gross.
+Corn|.99|We didn't even boil it. Raw corn on the cobb.
